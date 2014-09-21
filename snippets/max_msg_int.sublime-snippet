@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function msg_int(i){
+	$1
+}
+	]]></content>
+	<tabTrigger>maxint</tabTrigger>
+	<description>MaxMSP msg_int</description>
+	<scope>source.js</scope>
+</snippet>
