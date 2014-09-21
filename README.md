@@ -1,7 +1,7 @@
 Max MSP Javascript Snippets for Sublimetext
 =========
 
-It's not really comfortable to edit js objects in Max MSP, so I have created some snippets to edit js files with SublimeText.
+It's not really comfortable to edit js objects in Max MSP, so I have created some snippets to edit max js files with SublimeText.
 
   - inlets/outlets
   - functions like bang, msg_int, msg_float, etc.
@@ -17,7 +17,7 @@ for example
 ```sh
 maxbang
 ```
-will activate
+will write
 ```sh
 function bang(){
 
