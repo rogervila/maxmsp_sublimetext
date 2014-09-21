@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outlet($1, $2);
+	]]></content>
+	<tabTrigger>maxoutlet</tabTrigger>
+	<description>MaxMSP outlet</description>
+	<scope>source.js</scope>
+</snippet>
