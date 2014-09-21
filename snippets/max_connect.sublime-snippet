@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.patcher.connect($1, $2, $3, $4);
+	]]></content>
+	<tabTrigger>maxnewdefault</tabTrigger>
+	<description>MaxMSP Connect</description>
+	<scope>source.js</scope>
+</snippet>
