@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+inlets = $1;
+outlets = $2;
+	]]></content>
+	<tabTrigger>maxinlets</tabTrigger>
+	<description>MaxMSP inlets/outlets</description>
+	<scope>source.js</scope>
+</snippet>
