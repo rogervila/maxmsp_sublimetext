@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function list(){
+	$1
+}
+	]]></content>
+	<tabTrigger>maxlist</tabTrigger>
+	<description>MaxMSP list</description>
+	<scope>source.js</scope>
+</snippet>
