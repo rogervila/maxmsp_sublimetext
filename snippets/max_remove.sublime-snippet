@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.patcher.remove($1)
+	]]></content>
+	<tabTrigger>maxremove</tabTrigger>
+	<description>MaxMSP remove</description>
+	<scope>source.js</scope>
+</snippet>
