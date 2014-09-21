@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function msg_float(f){
+	$1
+}
+	]]></content>
+	<tabTrigger>maxfloat</tabTrigger>
+	<description>MaxMSP msg_float</description>
+	<scope>source.js</scope>
+</snippet>
