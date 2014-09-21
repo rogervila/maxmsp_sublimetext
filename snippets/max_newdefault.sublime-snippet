@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.patcher.newdefault($1, $2, $3, $4);
+	]]></content>
+	<tabTrigger>maxnewdefault</tabTrigger>
+	<description>MaxMSP newdefault</description>
+	<scope>source.js</scope>
+</snippet>
